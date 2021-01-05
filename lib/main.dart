@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
                 'Adam Grant',
                 style: TextStyle(
                   color: Colors.white,
+                  fontFamily: 'Pacifico',
                   fontSize: 40.0,
                   fontWeight: FontWeight.bold
                 ),
