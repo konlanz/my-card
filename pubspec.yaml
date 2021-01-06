@@ -65,8 +65,8 @@ flutter:
         - asset: fonts/Pacifico-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
-     - family: Open Sans
-       fonts:
+    - family: Open Sans
+      fonts:
         - asset: fonts/OpenSans-Regular.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
